@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.freecodecamp.org/news/content/images/2022/08/giphy-2.gif" height="150" width="150"> </p>
+<p align="center"> <img src="https://www.analyticsinsight.net/wp-content/uploads/2021/01/Voice-and-IoT.jpg" height="150" width="300"> </p>
 
 <h1 align="center">Welcome to repositories of Voice Assistant</h1></br></br>
 <B>Voice Assistant</B>
