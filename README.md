@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-[![made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![made-with-java](https://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.java.com/en/)
 
 <h1 align="center">WHY THIS</h1>
 <br>
