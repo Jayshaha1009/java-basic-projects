@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.analyticsinsight.net/wp-content/uploads/2021/01/Voice-and-IoT.jpg" height="150" width="300"> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/e6/83/f2/e683f29e5eb2d87da457379948533a08.gif" height="150" width="300"> </p>
 
 <h1 align="center">Welcome to repositories of Voice Assistant</h1></br></br>
 <B>Voice Assistant</B>
