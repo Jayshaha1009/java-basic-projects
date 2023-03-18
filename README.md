@@ -1,7 +1,7 @@
-<p align="center"> <img src="https://i.pinimg.com/originals/e6/83/f2/e683f29e5eb2d87da457379948533a08.gif" height="300" width="400"> </p>
 
-<h1 align="center">Welcome to repositories of Voice Assistant</h1></br></br>
-<B>Voice Assistant</B>
+
+<h1 align="center">Welcome to repositories of java basic projects</h1></br></br>
+<B>java projects</B>
 
   <br>
 </h1>
